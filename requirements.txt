@@ -1,0 +1,13 @@
+igraph
+matplotlib
+networkx
+numpy
+open3d
+pyhocon<0.3.60
+svgpathtools
+tensorboard
+torch
+tqdm
+trimesh
+
+# git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch

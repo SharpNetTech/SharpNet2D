@@ -1,0 +1,8 @@
+name: sharpnet2d
+channels:
+  - conda-forge
+dependencies:
+  - python<3.13,>=3.10
+  - pip
+  - pip:
+    - -r requirements.txt
